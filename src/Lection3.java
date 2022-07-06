@@ -9,7 +9,8 @@ public class Lection3 {
         int third = scanner.nextInt();
 
         int sum = first + second + third;
-        System.out.println(sum);
+        String output = String.format("Сумма равна: %s", sum);
+        System.out.println(output);
 
     }
 }
