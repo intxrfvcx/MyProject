@@ -1,4 +1,4 @@
-public class HelloWorld {
+public class Lection2 {
     public static void main(String[] args) {
 
         final int VALUE = 5;
