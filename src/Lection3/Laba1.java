@@ -1,5 +1,5 @@
+package Lection3;
 import java.util.Scanner;
-
 /*
 Лабораторная работа_1_Арифметика_Конструкции (if, if/else, switch)
 
@@ -8,7 +8,7 @@ import java.util.Scanner;
     Введите третье число: 20 <enter>
             Сумма чисел = 45        */
 
-public class Lection3 {
+public class Laba1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

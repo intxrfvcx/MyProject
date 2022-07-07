@@ -1,3 +1,4 @@
+package Lection3;
 /* Лабораторная работа 2_Арифметика_Конструкции (if, if/else, switch)
 
     Задание: написать программу в которой пользователь угадывает число при помощи циклов и условий.
@@ -5,7 +6,7 @@
 Результат сравнения должен быть отображен пользователю. */
 
 import java.util.Scanner;
-public class Lection3_2 {
+public class Laba2 {
     public static void main(String[] args) {
 
         System.out.println("Что выйграть, вам необходимо угадать число в диапазоне от 1 до 20");
