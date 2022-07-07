@@ -9,8 +9,8 @@ public class Laba3 {
     public static void main(String[] args) {
         int[] array = {2, 3, 4, 5, 6, 7, 8, 9, 10};
         int result = 1;
-        for (int j : array) {
-            result *= j;
+        for (int i : array) {
+            result *= i;
             System.out.println(result);
         }
     }
