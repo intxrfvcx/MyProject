@@ -7,12 +7,11 @@ package Lection4;
 
 public class Laba3 {
     public static void main(String[] args) {
-        int array[] = {2, 3, 4, 5, 6, 7, 8, 9, 10};
-        int retult = 1;
-
-        for(int i=0; i < array.length; i++){
-            retult *= array[i];
-            System.out.println(retult);
+        int[] array = {2, 3, 4, 5, 6, 7, 8, 9, 10};
+        int result = 1;
+        for (int j : array) {
+            result *= j;
+            System.out.println(result);
         }
     }
 }
