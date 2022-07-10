@@ -15,7 +15,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Arrays;
 import java.util.Locale;
-//
+
 public class Matrix {
     private double[][] m;
     private int rowsQuantity;
