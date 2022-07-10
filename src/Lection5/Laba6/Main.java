@@ -15,7 +15,7 @@ package Lection5.Laba6;
 import java.io.FileWriter;
 import java.io.IOException;
 
-public class Laba6 {
+public class Main {
     public static void main(String[] args) throws IOException {
         FileWriter fw = new FileWriter("matrix.txt");
 
