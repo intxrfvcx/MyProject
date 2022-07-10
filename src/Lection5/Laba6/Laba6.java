@@ -18,7 +18,7 @@ import java.io.IOException;
 public class Laba6 {
     public static void main(String[] args) throws IOException {
         FileWriter fw = new FileWriter("matrix.txt");
-    //
+
         Matrix a = new Matrix(4, 4);
         a.fillRandom();
         a.print("A (random filled matrix)");
