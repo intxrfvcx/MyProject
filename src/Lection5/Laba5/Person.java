@@ -3,7 +3,7 @@ package Lection5.Laba5;
 public class Person {
      String fullName;
      int age;
-
+//
     Person(){}
     Person(String fullName, int age){
         this.fullName = fullName;
