@@ -11,7 +11,7 @@ package Lection5.Laba5;
 import java.util.Scanner;
 
 
-public class Laba5 {
+public class Main {
     public static void main(String[] args) {
         //Сканнер
         Scanner scanner = new Scanner(System.in);
