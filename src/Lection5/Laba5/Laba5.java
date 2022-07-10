@@ -10,6 +10,7 @@ package Lection5.Laba5;
 
 import java.util.Scanner;
 
+
 public class Laba5 {
     public static void main(String[] args) {
         //Сканнер
