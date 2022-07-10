@@ -9,7 +9,7 @@ package Lection5.Laba5;
 3. Создать два объекта этого класса:  Person() и Person(fullName, age). */
 
 import java.util.Scanner;
-
+//
 
 public class Laba5 {
     public static void main(String[] args) {
