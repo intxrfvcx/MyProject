@@ -3,7 +3,7 @@ package Lection6;
 public class Student {
 
     private String firstName, lastName, group;
-    double averageMark;
+    private double averageMark;
     Student(String firstName, String lastName, String group, double averageMark){
         this.firstName = firstName;
         this.lastName = lastName;
